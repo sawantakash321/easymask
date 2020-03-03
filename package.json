@@ -1,0 +1,25 @@
+{
+  "name": "maskJs",
+  "version": "0.0.1",
+  "description": "A NPM Package that exports functions to mask values.",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sawantakash321/maskJs.git"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "masks",
+    "javascript"
+  ],
+  "author": "Akash Sawant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sawantakash321/maskJs/issues"
+  },
+  "homepage": "https://github.com/sawantakash321/maskJs#readme"
+}

@@ -1,5 +1,5 @@
 {
-  "name": "maskjs",
+  "name": "easymask",
   "version": "0.0.1",
   "description": "A NPM Package that exports functions to mask values.",
   "main": "build/index.js",
